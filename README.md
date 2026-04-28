@@ -55,12 +55,12 @@ streamlit run app.py
 
 ##  Results
 
-| Metric    | Value |
-| --------- | ----- |
-| Accuracy  | XX%   |
-| Precision | XX%   |
-| Recall    | XX%   |
-| F1 Score  | XX%   |
+| Metric    | Value    |
+| --------- | -------- |
+| Accuracy  | 98.39%   |
+| Precision | 97.98%   |
+| Recall    | 98.93%   |
+| F1 Score  | 98.40%   |
 
 
 ## Grad-CAM (Explainability)
